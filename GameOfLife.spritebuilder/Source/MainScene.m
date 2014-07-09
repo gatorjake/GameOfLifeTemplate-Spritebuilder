@@ -9,7 +9,7 @@
 #import "MainScene.h"
 #import "Grid.h"
 
-@implementation MainScene {
+/*@implementation MainScene {
     Grid *_grid;
     CCTimer *_timer;
     CCLabelTTF *_generationLabel;
@@ -69,5 +69,5 @@
 }
 
 _totalAlive = numAlive;
+*/
 
-@end

@@ -92,7 +92,7 @@ static const int GRID_COLUMNS = 10;
 }
 
 // iterate through the rows
-// note that NSArray has a method 'count' that will return the number of elements in the array
+/* note that NSArray has a method 'count' that will return the number of elements in the array
 for (int i = 0; i < [_gridArray count]; i++)
 {
     // iterate through all the columns for a given row
@@ -129,5 +129,5 @@ for (int i = 0; i < [_gridArray count]; i++)
         }
     }
 }
-
+*/
 @end
