@@ -10,4 +10,8 @@
 
 @interface MainScene : CCNode
 
+@property (nonatomic, assign) void evolveStep;
+
+-(void) evolveStep:(NSArray*)Creature;
+
 @end
